@@ -1,16 +1,11 @@
-# debug_banner
+# Create Splash Screen - Flutter - Ios & Android
 
-A new Flutter project.
+I showed how to add the splash screen in the Flutter application. 
 
-## Getting Started
+### Video
 
-This project is a starting point for a Flutter application.
+[![Watch the video](https://img.youtube.com/vi/4HmuDe7Pp4M/maxresdefault.jpg)](https://youtu.be/4HmuDe7Pp4M)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
